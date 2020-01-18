@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aa2da0cf-d775-4112-9eef-14bbb90f673f" name="67.205.178.219" url="http://67.205.178.219">
+        <fileTransfer host="67.205.178.219" port="22" rootFolder="/var/www/html/Laravel-Facebook" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
